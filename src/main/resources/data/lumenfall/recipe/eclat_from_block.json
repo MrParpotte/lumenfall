@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [{ "item": "lumenfall:eclatite_block" }],
+  "result": { "id": "lumenfall:eclat", "count": 9 }
+}

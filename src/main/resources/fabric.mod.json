@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "lumenfall",
+  "version": "${version}",
+  "name": "Lumenfall",
+  "description": "Une dimension souterraine qui s'illumine au fil de ton exploration.",
+  "authors": ["Claude"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": { "main": ["com.lumenfall.Lumenfall"] },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
